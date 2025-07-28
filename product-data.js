@@ -8,12 +8,6 @@ const products = [
     rate: 4.5,
     image:
       "https://images-na.ssl-images-amazon.com/images/I/71xvfA4ozZL._SL1500_.jpg",
-    details: {
-      color: "Black",
-      batteryLife: "20 hours",
-      connectivity: "Bluetooth 5.0",
-      warranty: "1 year",
-    },
   },
   {
     id: 2,
@@ -24,12 +18,6 @@ const products = [
     rate: 4.7,
     image:
       "https://www.bhphotovideo.com/images/images2500x2500/samsung_un55h6400afxza_un55h6400_55_smart_led_1026263.jpg",
-    details: {
-      screenSize: "55 inches",
-      resolution: "3840x2160",
-      smartFeatures: ["Netflix", "YouTube", "Amazon Prime"],
-      ports: "HDMI x 3, USB x 2",
-    },
   },
   {
     id: 3,
@@ -40,12 +28,6 @@ const products = [
     rate: 4.6,
     image:
       "https://m.media-amazon.com/images/I/719UK+f1SWL._AC_UL960_QL65_.jpg",
-    details: {
-      capacity: "1 Liter",
-      material: "Stainless Steel",
-      insulation: "Double-walled",
-      colorOptions: ["Silver", "Black", "Blue"],
-    },
   },
   {
     id: 4,
@@ -56,12 +38,6 @@ const products = [
     rate: 4.4,
     image:
       "https://i5.walmartimages.com/seo/Wireless-Gaming-Mouse-Laptop-TSV-Rechargeable-USB-2-4G-PC-5-Adjustable-DPI-7-Colors-LED-Lights-6-Silent-Buttons-Ergonomic-Optical-Computer-Desktop-Ma_8c2707d9-286f-440f-8a7f-8639ccb6e247_1.6e24c983626322e82e3fb15f4ed7e13a.jpeg",
-    details: {
-      dpi: "16000",
-      connectivity: "Wireless",
-      batteryLife: "50 hours",
-      weight: "120g",
-    },
   },
   {
     id: 5,
@@ -72,12 +48,6 @@ const products = [
     rate: 4.3,
     image:
       "https://i5.walmartimages.com/asr/9b6011c1-f435-4303-b589-c3161fcfdcff_1.beb5f59934865d8d7e96946644a5ecdb.jpeg",
-    details: {
-      weight: "100g",
-      origin: "Japan",
-      caffeineContent: "Low",
-      shelfLife: "12 months",
-    },
   },
   {
     id: 6,
@@ -88,12 +58,6 @@ const products = [
     rate: 4.5,
     image:
       "https://ae01.alicdn.com/kf/HTB1yVg9JVXXXXcbXVXXq6xXFXXXC/FANGCAN-FCY-02-PVC-Yoga-Mat-Non-toxic-Environmentally-Friendly-Yoga-Mat-Slip-prooving-Yoga-Mat.jpg",
-    details: {
-      thickness: "6mm",
-      material: "Eco-friendly TPE",
-      size: "68x24 inches",
-      colorOptions: ["Purple", "Blue", "Green"],
-    },
   },
   {
     id: 7,
@@ -104,12 +68,6 @@ const products = [
     rate: 4.4,
     image:
       "https://i5.walmartimages.com/asr/3e387115-6d07-47f0-b7c7-51c197dd458f_2.58d408f4e37854ea0b5f261f9d9b1c44.jpeg",
-    details: {
-      capacity: "1.7 Liters",
-      power: "1500W",
-      material: "Stainless Steel",
-      autoShutoff: "Yes",
-    },
   },
   {
     id: 8,
@@ -120,12 +78,6 @@ const products = [
     rate: 4.2,
     image:
       "https://th.bing.com/th/id/OIP.mb-DY-xbQO90VPG4rI24UAHaHd?rs=1&pid=ImgDetMain",
-    details: {
-      material: "Genuine Leather",
-      colorOptions: ["Brown", "Black"],
-      slots: "8 card slots",
-      warranty: "2 years",
-    },
   },
   {
     id: 9,
@@ -136,12 +88,7 @@ const products = [
     rate: 4.6,
     image:
       "https://i5.walmartimages.com/seo/Oster-6-Cup-Blender-Easy-to-Clean-Smoothie-Blender-in-Black_a38a70fd-feae-4b33-b4fc-7ec34276a46f.40fab336ab539a6d985c1b06e32d22de.jpeg",
-    details: {
-      power: "1200W",
-      capacity: "1.5 Liters",
-      material: "Stainless Steel",
-      included: ["Blender Jar", "Lid", "User Manual"],
-    },
+
   },
   {
     id: 10,
@@ -152,12 +99,6 @@ const products = [
     rate: 4.7,
     image:
       "https://th.bing.com/th/id/R.e3d001282860f1d5e30285f6f52d7f9c?rik=CBEvO0W45Vd3Sw&pid=ImgRaw&r=0",
-    details: {
-      sizeOptions: ["7", "8", "9", "10"],
-      colorOptions: ["Black", "Blue", "Red"],
-      material: "Mesh",
-      weight: "250g",
-    },
   },
   {
     id: 11,
@@ -167,12 +108,6 @@ const products = [
     price: 29.99,
     rate: 4.3,
     image: "https://m.media-amazon.com/images/I/81VfBSdIPvL.jpg",
-    details: {
-      compatibility: "Qi-enabled devices",
-      output: "10W",
-      color: "White",
-      cableLength: "1.5m",
-    },
   },
   {
     id: 12,
@@ -183,12 +118,6 @@ const products = [
     rate: 4.5,
     image:
       "https://www.bhphotovideo.com/images/images2500x2500/manfrotto_mb_ma_trv_gy_advanced_travel_backpack_grey_1177051.jpg",
-    details: {
-      capacity: "30 Liters",
-      material: "Nylon",
-      colorOptions: ["Black", "Gray", "Blue"],
-      compartments: "3",
-    },
   },
   {
     id: 13,
@@ -199,12 +128,6 @@ const products = [
     rate: 4.4,
     image:
       "https://i5.walmartimages.com/asr/16f77040-27ab-4008-9852-59c900d7a7d9_1.c524f1d9c465e122596bf65f939c8d26.jpeg",
-    details: {
-      capacity: "12 cups",
-      features: ["Programmable", "Auto Shutoff"],
-      material: "Plastic",
-      included: ["Coffee Pot", "Filter"],
-    },
   },
   {
     id: 14,
@@ -214,12 +137,6 @@ const products = [
     price: 129.99,
     rate: 4.6,
     image: "https://m.media-amazon.com/images/I/71erhKJ-jhL._AC_SL1500_.jpg",
-    details: {
-      display: "1.3-inch AMOLED",
-      batteryLife: "7 days",
-      compatibility: "iOS & Android",
-      features: ["Heart Rate Monitor", "Step Counter"],
-    },
   },
   {
     id: 15,
@@ -230,12 +147,6 @@ const products = [
     rate: 4.5,
     image:
       "https://i5.walmartimages.com/asr/2c0055e8-8dea-4bb7-a08f-0b903fe2488c.094e9c43810b5aa65022354921a3b9ef.jpeg",
-    details: {
-      capacity: "5.5 Liters",
-      power: "1500W",
-      temperatureRange: "80°C - 200°C",
-      included: ["Fryer Basket", "User Manual"],
-    },
   },
   {
     id: 16,
@@ -246,12 +157,6 @@ const products = [
     rate: 4.3,
     image:
       "https://cdn.images.fecom-media.com/FE00006284/images/Flexible%20Desk%20Lamp_7vp_3EfGQk.jpg",
-    details: {
-      brightnessLevels: "3",
-      colorTemperature: "3000K - 6000K",
-      material: "Metal",
-      powerSource: "USB",
-    },
   },
   {
     id: 17,
@@ -262,12 +167,6 @@ const products = [
     rate: 4.5,
     image:
       "https://images-na.ssl-images-amazon.com/images/I/811hGWxj1gL._AC_SL1500_.jpg",
-    details: {
-      batteryLife: "15 hours",
-      waterproof: "IPX7",
-      connectivity: "Bluetooth 5.0",
-      colorOptions: ["Black", "Blue", "Red"],
-    },
   },
   {
     id: 18,
@@ -278,11 +177,6 @@ const products = [
     rate: 4.4,
     image:
       "https://i5.walmartimages.com/asr/2dd09fee-6b40-41e0-95f3-61fe62f4c252.ca67de8763077368b4fac62a44ebaae6.jpeg",
-    details: {
-      modes: ["Clean", "Whitening", "Sensitive"],
-      batteryLife: "30 days",
-      included: ["Brush Head", "Charging Base"],
-    },
   },
   {
     id: 19,
@@ -293,12 +187,6 @@ const products = [
     rate: 4.6,
     image:
       "https://www.targus.com/content/images/thumbs/0002494_17-drifter-ii-laptop-backpack.jpeg",
-    details: {
-      laptopSize: "Up to 15.6 inches",
-      material: "Polyester",
-      compartments: "Multiple",
-      colorOptions: ["Black", "Gray"],
-    },
   },
   {
     id: 20,
@@ -309,12 +197,6 @@ const products = [
     rate: 4.7,
     image:
       "https://techstory.in/wp-content/uploads/2020/02/01LW4049122-HeroSquare-f670a23de42e4206b42e87a61fe486fe.jpg",
-    details: {
-      batteryLife: "30 hours",
-      connectivity: "Bluetooth 5.0",
-      colorOptions: ["Black", "Silver"],
-      included: ["Carrying Case", "Aux Cable"],
-    },
   },
   {
     id: 21,
@@ -325,12 +207,6 @@ const products = [
     rate: 4.5,
     image:
       "https://th.bing.com/th/id/R.38d82eb7933f404ed196024d7e67cc8d?rik=%2bDSR0zHSS%2bu5zQ&pid=ImgRaw&r=0",
-    details: {
-      maxSpeed: "25 km/h",
-      range: "25 km",
-      weight: "12 kg",
-      chargingTime: "4 hours",
-    },
   },
   {
     id: 22,
@@ -341,12 +217,6 @@ const products = [
     rate: 4.6,
     image:
       "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5852/5852331_sd.jpg",
-    details: {
-      compatibility: "Works with Alexa",
-      features: ["Learning Mode", "Remote Control"],
-      powerSource: "Battery",
-      warranty: "2 years",
-    },
   },
   {
     id: 23,
@@ -357,12 +227,6 @@ const products = [
     rate: 4.4,
     image:
       "https://th.bing.com/th/id/OIP.W1y0N8SUBdJhFS8B2S4T_gHaHa?rs=1&pid=ImgDetMain",
-    details: {
-      power: "1500W",
-      cookingArea: "200 sq. inches",
-      temperatureControl: "Adjustable",
-      included: ["Grill Plate", "Drip Tray"],
-    },
   },
   {
     id: 24,
@@ -373,12 +237,6 @@ const products = [
     rate: 4.5,
     image:
       "https://images-cdn.ubuy.co.in/634d011f7b4c27441051324c-gaming-keyboard-tedgem-gaming-keyboards.jpg",
-    details: {
-      switchType: "Mechanical",
-      backlight: "RGB",
-      connectivity: "Wired",
-      compatibility: "PC & Mac",
-    },
   },
   {
     id: 25,
@@ -389,12 +247,6 @@ const products = [
     rate: 4.3,
     image:
       "https://i5.walmartimages.com/asr/20794c62-9f80-41ad-9bbe-e81862e50f09.4d55ab5471bdb6989b681aa46673ce23.jpeg",
-    details: {
-      size: "Queen",
-      heatSettings: "6",
-      material: "Fleece",
-      autoShutoff: "Yes",
-    },
   },
   {
     id: 26,
@@ -405,12 +257,6 @@ const products = [
     rate: 4.5,
     image:
       "https://th.bing.com/th/id/R.eba125c1340c60f86835e2ee6913be3d?rik=UDz99h0S3qCUhA&riu=http%3a%2f%2fwww.herstylecode.com%2fwp-content%2fuploads%2f2016%2f11%2fbest-fitness-trackers-3.jpg&ehk=6pvPryXs%2fbDtmXUkA%2blSdr%2fwDPuNdbKZj7A1%2fx7SM18%3d&risl=&pid=ImgRaw&r=0",
-    details: {
-      display: "OLED",
-      batteryLife: "7 days",
-      waterproof: "Yes",
-      compatibility: "iOS & Android",
-    },
   },
   {
     id: 27,
@@ -421,12 +267,6 @@ const products = [
     rate: 4.6,
     image:
       "https://i5.walmartimages.com/asr/27d099b3-aff6-41af-97d6-ce6a80ad0982_1.a3b9c134c1d8004084661286fece8371.jpeg",
-    details: {
-      suctionPower: "2000Pa",
-      batteryLife: "120 minutes",
-      features: ["App Control", "Auto Recharge"],
-      included: ["Charging Dock", "User Manual"],
-    },
   },
   {
     id: 28,
@@ -437,12 +277,6 @@ const products = [
     rate: 4.2,
     image:
       "https://www.bhphotovideo.com/images/images2500x2500/Logitech_910_001105_Performance_Mouse_MX_Wireless_647502.jpg",
-    details: {
-      dpi: "1600",
-      connectivity: "Wireless",
-      batteryLife: "12 months",
-      colorOptions: ["Black", "White"],
-    },
   },
   {
     id: 29,
@@ -453,12 +287,6 @@ const products = [
     rate: 4.6,
     image:
       "https://th.bing.com/th/id/R.d1a97c0b4f9a523be46c4b2955ec0d20?rik=XHkVy5mf5ZZAwg&riu=http%3a%2f%2fimages.pressurecookerguide.biz%2fl-m%2f9-in-1-programmable-electric-pressure-cooker-v-3079849120.jpg&ehk=Q0ejTqGQ0QF9IIRTw1amKNmQbh15a8R5W%2bmWzklisAo%3d&risl=&pid=ImgRaw&r=0",
-    details: {
-      capacity: "6 Liters",
-      functions: ["Pressure Cook", "Slow Cook", "Steam"],
-      material: "Stainless Steel",
-      included: ["Cooking Pot", "Steam Rack"],
-    },
   },
   {
     id: 30,
@@ -469,12 +297,6 @@ const products = [
     rate: 4.5,
     image:
       "https://i5.walmartimages.com/asr/8399bef6-5ad8-4c66-a21b-63742324755e_1.8ea247cd26c1abbf48b989b4a42e4e9e.jpeg",
-    details: {
-      resolution: "1080p",
-      connectivity: "Wi-Fi",
-      features: ["Motion Detection", "Two-Way Audio"],
-      compatibility: "Works with Alexa",
-    },
   },
   {
     id: 31,
@@ -486,12 +308,6 @@ const products = [
     rate: 4.5,
     image:
       "https://www.bhphotovideo.com/images/images2500x2500/skullcandy_s6hbgy_374_hesh_2_bluetooth_headphones_1085703.jpg",
-    details: {
-      brand: "AudioTech",
-      color: "Black",
-      connectivity: "Bluetooth 5.0",
-      battery_life: "40 hours",
-    },
   },
   {
     id: 32,
@@ -503,12 +319,6 @@ const products = [
     rate: 4.7,
     image:
       "https://i5.walmartimages.com/asr/220802f0-988a-4593-927a-1c44350906a8_1.6763539a2a35a654d9d2856ec6c2ec6a.png?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
-    details: {
-      brand: "FitTech",
-      screen_size: "1.5 inches",
-      battery_life: "7 days",
-      compatibility: "iOS & Android",
-    },
   },
   {
     id: 33,
@@ -519,12 +329,6 @@ const products = [
     price: 199.99,
     rate: 4.6,
     image: "https://m.media-amazon.com/images/I/81HznWNJPnL.jpg",
-    details: {
-      brand: "ErgoSeating",
-      color: "Gray",
-      material: "Mesh & Metal",
-      weight_capacity: "300 lbs",
-    },
   },
   {
     id: 34,
@@ -535,12 +339,6 @@ const products = [
     rate: 4.4,
     image:
       "https://cdn.shopify.com/s/files/1/0083/6845/5746/products/profile_miniespresso_1024x1024@2x.jpg?v=1575205498",
-    details: {
-      brand: "BrewGo",
-      capacity: "50ml",
-      power_source: "Manual",
-      material: "Stainless Steel",
-    },
   },
   {
     id: 35,
@@ -550,12 +348,6 @@ const products = [
     price: 89.99,
     rate: 4.8,
     image: "https://m.media-amazon.com/images/I/71OH4BueKmL._AC_SL1500_.jpg",
-    details: {
-      brand: "GamePro",
-      switch_type: "Mechanical (Blue Switches)",
-      lighting: "RGB Customizable",
-      connectivity: "USB Wired",
-    },
   },
   {
     id: 36,
@@ -566,12 +358,6 @@ const products = [
     price: 59.99,
     rate: 4.5,
     image: "https://m.media-amazon.com/images/I/61iZ6jMZVSL._AC_SL1500_.jpg",
-    details: {
-      brand: "StreamMax",
-      resolution: "4K Ultra HD",
-      connectivity: "WiFi & Ethernet",
-      voice_control: "Yes",
-    },
   },
   {
     id: 37,
@@ -582,12 +368,6 @@ const products = [
     rate: 4.6,
     image:
       "https://th.bing.com/th/id/R.ae3848cb7efe5ed146a47d573a5de34a?rik=h1Z1mmy7gc0huA&pid=ImgRaw&r=0",
-    details: {
-      brand: "StrongFit",
-      weight_range: "5-50 lbs",
-      material: "Cast Iron",
-      grip: "Anti-Slip Handle",
-    },
   },
   {
     id: 38,
@@ -598,12 +378,6 @@ const products = [
     price: 39.99,
     rate: 4.3,
     image: "https://m.media-amazon.com/images/I/71knzwIPTML._AC_SL1500_.jpg",
-    details: {
-      brand: "SleepWell",
-      battery_life: "10 hours",
-      material: "Memory Foam",
-      connectivity: "Bluetooth 5.0",
-    },
   },
   {
     id: 39,
@@ -615,12 +389,6 @@ const products = [
     rate: 4.7,
     image:
       "https://i5.walmartimages.com/asr/fd80607d-56d1-4522-8284-70d8b8500a25.515225ea5a264ecd3de0086c959e5486.jpeg",
-    details: {
-      brand: "CrispTech",
-      capacity: "5.8 Quarts",
-      power: "1700W",
-      temperature_range: "180-400°F",
-    },
   },
   {
     id: 40,
@@ -631,11 +399,5 @@ const products = [
     rate: 4.6,
     image:
       "https://th.bing.com/th/id/R.471af23dc4adaef66e0a8593d143b84d?rik=S2T%2f7ttaNjnwhQ&pid=ImgRaw&r=0",
-    details: {
-      brand: "ChargePro",
-      capacity: "10000mAh",
-      ports: "2x USB-A, 1x USB-C",
-      fast_charging: "Yes",
-    },
   },
 ];
